@@ -1,8 +1,7 @@
 {
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
-    "build": "netlify-lambda build functions"
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "bcryptjs": "^3.0.0",
